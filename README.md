@@ -2,8 +2,6 @@
 
 Python script to monitor United States Department of Labor TopHat Plan Search API for new filings.
 
-![preview](https://dan-bauman.com/assets/media/email.png)
-
 ## Install
 
 1. Ensure Python 3.7+ installed, or install Python 3.7+
